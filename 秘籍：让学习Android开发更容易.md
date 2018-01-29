@@ -25,7 +25,8 @@ Building Android apps requires not only an understanding of Java (in itself a to
 不幸的是，学习Android开发，起步确实是较为棘手之处。
 构建Android APP，不仅要了解Java(java自身就是一种难学的语言)，还要了解项目结构、Android SDK的工作方式、XML等。
 
-## Making an app can be relatively easy... But that's very different from grasping all the ins and outs of the language in question.
+## Making an app can be relatively easy... 
+## But that's very different from grasping all the ins and outs of the language in question.
 ## 做一个APP相对容易... 但这与掌握所有的语言细节是完全不同的。
 
 This no doubt has led many people to give up before they’ve really given it a proper shot, and that’s a huge shame. Once you’ve actually built an app, Android is one of the best platforms for distributing your creations to a huge audience.
@@ -62,7 +63,8 @@ Google is your friend when it comes to building projects and learning concepts. 
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
 
-## You can also Google error messages while trying to figure out why your apps won’t work
+## You can also Google error messages 
+## while trying to figure out why your apps won’t work
 ## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
 You can also Google error messages while trying to figure out why your apps won’t work!
 
@@ -77,7 +79,8 @@ This is reverse engineering: taking something apart to see how it works. It’s 
 ### 养成良好的习惯
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 
-## Understand how to use the debugger before you get too far into your coding journey
+## Understand how to use the debugger 
+## before you get too far into your coding journey
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
 
@@ -105,7 +108,8 @@ Still stuck? You could try taking a different approach entirely. Android Studio 
 
 ## Conclusion
 ## 结论
-### Everyone approaches learning in different ways. But a good way to start out for many people will be:
+### Everyone approaches learning in different ways. 
+### But a good way to start out for many people will be:
 ### 每个人以不同的方式学习。对很多人来说，一个好的开始是:
 - Buy a good book on Android development and do a little reading to grasp the basics.
 - :white_check_mark: **买一本关于Android开发的好书，阅读并掌握一些基本知识。**
