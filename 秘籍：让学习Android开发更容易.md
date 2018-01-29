@@ -5,25 +5,25 @@
 Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! 
 Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
 
-学习编程不是一件容易的事，不要让任何人告诉你其它看法！
-当然，像“5分钟学会编程”这样的标题听起来会很诱人(我确定我曾被诱惑过)，但实际情况并非如此简单。
+**学习编程不是一件容易的事，不要让任何人告诉你其它看法！
+当然，像“5分钟学会编程”这样的标题听起来会很诱人(我确定我曾被诱惑过)，但实际情况并非如此简单。**
 
 It’s much easier to build an app by following step-by-step instructions. 
 You can follow one of my 7 minute videos for instance to make a basic game or quiz (so don’t be put off!). That’s very different from grasping all the ins and outs of the language in question, but it’s a great way to get started.
 
-一步步跟着向导编写APP会容易很多。
+**一步步跟着向导编写APP会容易很多。
 你可以在跟着我的7分钟视频做一个基本的游戏或测试实例(所以不要拖延！)
-这与掌握所有的语言细节是完全不同的，但这是一个很好的开始。
+这与掌握所有的语言细节是完全不同的，但这是一个很好的开始。**
 
 If you want to learn to program in a more complete sense, then you’re going to need to wrap your head around some complex and abstract concepts: object oriented programming, methods, classes, variables, flow control. 
 The list goes on. 
 Unfortunately, learning to develop for Android is actually one of the trickier places to start. 
 Building Android apps requires not only an understanding of Java (in itself a tough language), but also project structure, how the Android SDK works, XML, and more.
 
-如果你想更为全面的领会如何学习编程，那么你需要把你的头脑缠绕在一些复杂而抽象的概念上:面向对象编程、方法、类、变量、流控制。
+**如果你想更为全面的领会如何学习编程，那么你需要把你的头脑缠绕在一些复杂而抽象的概念上:面向对象编程、方法、类、变量、流控制。
 这样抽象的例子还有很多。
 不幸的是，学习Android开发，起步确实是较为棘手之处。
-构建Android APP，不仅要了解Java(java自身就是一种难学的语言)，还要了解项目结构、Android SDK的工作方式、XML等。
+构建Android APP，不仅要了解Java(java自身就是一种难学的语言)，还要了解项目结构、Android SDK的工作方式、XML等。**
 
 ## Making an app can be relatively easy... 
 ## But that's very different from grasping all the ins and outs of the language in question.
@@ -31,12 +31,12 @@ Building Android apps requires not only an understanding of Java (in itself a to
 
 This no doubt has led many people to give up before they’ve really given it a proper shot, and that’s a huge shame. Once you’ve actually built an app, Android is one of the best platforms for distributing your creations to a huge audience.
 
-毫无疑问，很多人在真正做一次正确的尝试之前就放弃了，这是巨大的耻辱。:angry:
-一旦你真的开发了一款APP，Android是将你的创意传播给广大用户的最佳平台之一。
+**毫无疑问，很多人在真正做一次正确的尝试之前就放弃了，这是巨大的耻辱。:angry:
+一旦你真的开发了一款APP，Android是将你的创意传播给广大用户的最佳平台之一。**
 
 With that in mind, here are some top tips to help you get started without leaving a head-shaped dent in your wall. Walls are expensive.
 
-记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁，墙壁是昂贵的 :joy:
+**记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁，墙壁是昂贵的 :joy:**
 
 ### Get a good book and use it right
 ### :red_circle: 买一本好书，好好利用
@@ -70,8 +70,7 @@ You need to make sure to keep doing this. When you’re new, you can easily spen
 当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
   你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
 
-## You can also Google error messages 
-## while trying to figure out why your apps won’t work
+## You can also Google error messages while trying to figure out why your apps won’t work
 ## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
 You can also Google error messages while trying to figure out why your apps won’t work!
 
@@ -86,8 +85,7 @@ This is reverse engineering: taking something apart to see how it works. It’s 
 ### 养成良好的习惯
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 
-## Understand how to use the debugger 
-## before you get too far into your coding journey
+## Understand how to use the debugger before you get too far into your coding journey
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
 
