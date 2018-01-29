@@ -2,11 +2,18 @@
 # 学习Android开发更容易的秘籍
 ##### Source：https://www.androidauthority.com/top-tips-make-learning-android-development-easier-829306/
 ------------------
-Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
+Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! 
+Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
 
-学习编程不是一件容易的事，不要让任何人告诉你其它看法！当然，像“5分钟学会编程”这样的标题听起来可能很诱人(我确定我曾被诱惑过)，但实际情况并不是那么简单。
+学习编程不是一件容易的事，不要让任何人告诉你其它看法！
+当然，像“5分钟学会编程”这样的标题听起来会很诱人(我确定我曾被诱惑过)，但实际情况并非如此简单。
 
-It’s much easier to build an app by following step-by-step instructions. You can follow one of my 7 minute videos for instance to make a basic game or quiz (so don’t be put off!). That’s very different from grasping all the ins and outs of the language in question, but it’s a great way to get started.
+It’s much easier to build an app by following step-by-step instructions. 
+You can follow one of my 7 minute videos for instance to make a basic game or quiz (so don’t be put off!). That’s very different from grasping all the ins and outs of the language in question, but it’s a great way to get started.
+
+一步步跟着向导编写APP会容易很多。
+你可以在跟着我的7分钟视频做一个基本的游戏或测试实例(所以不要拖延！)
+这与掌握所有的语言细节是完全不同的，但这是一个很好的开始。
 
 ## Making an app can be relatively easy... But that's very different from grasping all the ins and outs of the language in question.
 This no doubt has led many people to give up before they’ve really given it a proper shot, and that’s a huge shame. Once you’ve actually built an app, Android is one of the best platforms for distributing your creations to a huge audience.
