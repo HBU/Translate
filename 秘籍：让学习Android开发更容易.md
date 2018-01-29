@@ -27,8 +27,7 @@ Building Android apps requires not only an understanding of Java (in itself a to
 
 ------------------------------
 
-## Making an app can be relatively easy... 
-## But that's very different from grasping all the ins and outs of the language in question.
+##### Making an app can be relatively easy...But that's very different from grasping all the ins and outs of the language in question.
 ## 做一个APP相对容易... 但这与掌握所有的语言细节是完全不同的。
 
 This no doubt has led many people to give up before they’ve really given it a proper shot, and that’s a huge shame. Once you’ve actually built an app, Android is one of the best platforms for distributing your creations to a huge audience.
@@ -40,13 +39,13 @@ With that in mind, here are some top tips to help you get started without leavin
 
 **记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁，墙壁是昂贵的 :joy:**
 
-### Get a good book and use it right
+##### Get a good book and use it right
 ### :red_circle: 买一本好书，好好利用
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.
 ##### 【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
 买一本好书，好好利用，这是显然的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
 
-### Start with an easy project
+##### Start with an easy project
 ### :red_circle: 从一个简单的项目开始
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
@@ -59,7 +58,7 @@ Note: “Easy” is the operative word here! Friends who tell me they want to ma
 ##### 【translate by [dadadazhi](https://github.com/dadadazhi)】
 在家庭度假上，我通过读一本书来学习编程,然后在一张纸上做很多笔记，而我的父母在阳台上聊天。那是BASIC（语言），BASIC（语言）相当简单。试图以这种方式学习Android的话，只会导致头痛和数不清的墨水。因此，与其尝试“学习Android”，不如尝试构建第一个简单的应用程序。这将会把你所学到的东西都融入到你的学习中，并帮助你看到它是如何运作的，以及为什么它是有什么用的。这样做也会让你保持动力，帮助你学习。你永远不会了解关于Android开发的所有知识，因为它一直在变化。你可以学习如何制作Xapp或Yapp，你所掌握的技能将使下一个项目更加容易。这几乎是你每次接近一个新项目时都会做的事情，永远。实际上，这也是作者 Josh Kaufman在他的书中推荐的一种方法，即在前20小时内快速学习任何东西。这是一本好书。
 注意:“Easy”是这里的关键词!那些告诉我他们想要开发应用程序的朋友们，几乎都会有一些高级程序员难以企及的雄心壮志。想建立你的梦想应用程序，要从一个计算器开始，一个测试，一个数学游戏，或者一个其他小东西。
-### Ask a friend
+##### Ask a friend
 ### :red_circle: 咨询朋友
 If you’re fortunate enough to have a friend who knows how to code, then ask them to show you the ropes. They’ll help you get set up with the right software and be able to answer any questions you have. An afternoon with someone who understands Android development and is generous with their time is worth countless hours of reading and Googling.
 That said…
@@ -69,7 +68,7 @@ That said…
 跟一个了解Android开发并慷慨奉献自己时间的朋友学习一下午，能节约无数用来阅读和搜索的时间。
 也就是说…
 
-### Use Google and don’t reinvent the wheel
+##### Use Google and don’t reinvent the wheel
 ### :red_circle: 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
 
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
@@ -79,26 +78,26 @@ You need to make sure to keep doing this. When you’re new, you can easily spen
 当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
   你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
 
-## You can also Google error messages while trying to figure out why your apps won’t work
+###### You can also Google error messages while trying to figure out why your apps won’t work
 ## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
 You can also Google error messages while trying to figure out why your apps won’t work!
 
 Tip: One of the challenges for learning coding in general and Android in particular, is it changes all the time. That means you’ll find plenty of out-dated resources, which will only confuse you. To fix that in Google, click ‘Tools”and then Any Time > Past Year. This should help ensure all the information you find up-to-date.
 
-### Reverse engineer
+##### Reverse engineer
 ### 逆向工程
 Borrowing code or copying out simple programs is a good opportunity to learn. Try reading through some code and understanding how it works. Tweak lines to see how it alters the functionality and appropriate any elements you think could be used elsewhere.
 This is reverse engineering: taking something apart to see how it works. It’s a great way to learn anything.
 
-### Get into good habits
+##### Get into good habits
 ### 养成良好的习惯
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 
-## Understand how to use the debugger before you get too far into your coding journey
+##### Understand how to use the debugger before you get too far into your coding journey
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
 
-### Watch videos
+##### Watch videos
 ### 观看视频
 This is partly a matter of personal preference, but I think following a video tutorial is significantly easier than learning the same thing in a book. This way, you can literally follow along with precisely what the instructor is doing.
 
@@ -106,24 +105,24 @@ Certain concepts are easier to learn from books and websites, but putting those 
 
 Better yet would be to find a structured online course that included videos. Stay tuned.
 
-### Maybe don’t start with Android
+##### Maybe don’t start with Android
 ### 不一定必须从Android起步
 I say “maybe” because this won’t be the case for everyone. If you’re really eager to get an app up and running, you might not want to spend time with a completely different programming language. Likewise some people may find starting with a different programming language actually just confuses them, as it’ll add more syntax to remember. It all depends on your style of learning.
 
-## Python is an easy introduction into object oriented programming.
+##### Python is an easy introduction into object oriented programming.
 ## Python是进入面向对象编程的简易向导
 For me personally, Android was an struggle. I got by because I already knew BASIC (one of the most readable and beginner-friendly languages) but it was only really after I’d gotten familiar with Python and C# that I really started to “get” Java and Android. BASIC is great for learning concepts like variables and conditional statements. Python is an easy introduction to object oriented programming. C# has syntax similar to Java. From there it’s just a matter of changing a few statements and methodologies to make the transition.
 
 This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
 
-### Try another IDE/language for Android development
+##### Try another IDE/language for Android development
 ### 尝试其它Android开发的集成开发环境/开发语言
 Still stuck? You could try taking a different approach entirely. Android Studio + Java is the official way to create Android apps, but there are plenty of other options out there too. One is to use the now-officially-supported Kotlin. If you’re making a game, you could also go with Unity. You could even try the lesser-known Basic4Android. All these options will make it a little easier to get started, but of course there are advantages to knowing the official “main” approach to Android development.
 
-## Conclusion
+##### Conclusion
 ## 结论
-### Everyone approaches learning in different ways. 
-### But a good way to start out for many people will be:
+##### Everyone approaches learning in different ways. 
+##### But a good way to start out for many people will be:
 ### 每个人以不同的方式学习。对很多人来说，一个好的开始是:
 - Buy a good book on Android development and do a little reading to grasp the basics.
 - :white_check_mark: **买一本关于Android开发的好书，阅读并掌握一些基本知识。**
