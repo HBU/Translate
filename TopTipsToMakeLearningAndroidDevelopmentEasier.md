@@ -165,7 +165,7 @@ JAVA程序，我们把这称之为IDE。这将帮助你在你担心XML，安卓�
 ##### Try another IDE/language for Android development
 Still stuck? You could try taking a different approach entirely. Android Studio + Java is the official way to create Android apps, but there are plenty of other options out there too. One is to use the now-officially-supported Kotlin. If you’re making a game, you could also go with Unity. You could even try the lesser-known Basic4Android. All these options will make it a little easier to get started, but of course there are advantages to knowing the official “main” approach to Android development.
 ##### 【translate by [Xingchenzhun](https://github.com/Xingchenzhun)】
-Translating……
+还在困惑？你可以尝试完全不同的方法。Android Studio + java是创建Android应用程序的官方途径，但也有很多其他的选择。一个是用现在官方支持的Kotlin。如果你正在制作游戏，你可以使用Unity。你甚至可以尝试鲜为人知的Basic 4 Android。所有的这些选项都会使你的开端更加容易一些，但了解Android开发的官方“主要”方法当然有好处。
 
 ---------------------------------
 
