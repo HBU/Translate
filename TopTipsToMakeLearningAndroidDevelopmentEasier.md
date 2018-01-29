@@ -144,7 +144,7 @@ Better yet would be to find a structured online course that included videos. Sta
 ##### Maybe don’t start with Android
 I say “maybe” because this won’t be the case for everyone. If you’re really eager to get an app up and running, you might not want to spend time with a completely different programming language. Likewise some people may find starting with a different programming language actually just confuses them, as it’ll add more syntax to remember. It all depends on your style of learning.
 ##### 【translate by [KangYh](https://github.com/0-0MrLonely)】
-Translating……
+我用了“不一定”来表达，因为这种方法不一定对所有人都适用。如果你真的是超想写个软件跑一下，你也许并不想在一门完全不同的程序语言上花费时间。同样的，一些人可能发现开始学习一门不同的语言让他们完全懵了，因为有更多的语法要记。总而言之，看你自己的学习风格了。
 
 ----------------------
 
