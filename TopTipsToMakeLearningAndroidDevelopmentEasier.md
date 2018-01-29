@@ -102,7 +102,7 @@ You need to make sure to keep doing this. When you’re new, you can easily spen
 
 Tip: One of the challenges for learning coding in general and Android in particular, is it changes all the time. That means you’ll find plenty of out-dated resources, which will only confuse you. To fix that in Google, click ‘Tools”and then Any Time > Past Year. This should help ensure all the information you find up-to-date.
 ##### 【translated by [S7ZYXU](https://github.com/S7ZYXU)】
-Translating……
+提示：一般情况下学习编程尤其是Android的挑战之一是它一直在变化。这意味着你会发现很多只会让你迷惑的过时的资源。要在谷歌中修复这个问题，点击“Tools”，然后Any Time > Past Year。这将有助于确保您发现的所有信息是最新的。
 
 ### 逆向工程
 ##### Reverse engineer
