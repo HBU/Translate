@@ -1,7 +1,7 @@
 # 秘籍：让学习Android开发更容易 :cn:
 ##### Top tips to make learning Android development easier :us:
 ##### Source：https://www.androidauthority.com/top-tips-make-learning-android-development-easier-829306/
-##### Translate : [David](https://github.com/HBU),  [mengjiu999](https://github.com/mengjiu999), [MiaoQiaowei](https://github.com/MiaoQiaowei), [dadadazhi](https://github.com/dadadazhi)
+##### Translate : [David](https://github.com/HBU),  [mengjiu999](https://github.com/mengjiu999), [MiaoQiaowei](https://github.com/MiaoQiaowei), [dadadazhi](https://github.com/dadadazhi), [zz51233273](https://github.com/zz51233273)
 ------------------
 Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! 
 Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
@@ -44,7 +44,7 @@ With that in mind, here are some top tips to help you get started without leavin
 ### :red_circle: 买一本好书，好好利用
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.
 ##### 【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
-买一本好书，好好利用，这是显然的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
+买一本好书并好好利用是显而易见的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
 
 ##### Start with an easy project
 ### :red_circle: 从一个简单的项目开始
@@ -89,6 +89,8 @@ Tip: One of the challenges for learning coding in general and Android in particu
 ### 逆向工程
 Borrowing code or copying out simple programs is a good opportunity to learn. Try reading through some code and understanding how it works. Tweak lines to see how it alters the functionality and appropriate any elements you think could be used elsewhere.
 This is reverse engineering: taking something apart to see how it works. It’s a great way to learn anything.
+【translate by [zz51233273](https://github.com/zz51233273)】
+借助代码或拷贝一份简单的程序是一个很好的学习机会，可以尝试着去读一些代码并理解这段程序是如何工作的。我们也可以稍微修改几行来观察如何能有效并适当的代替任意一个地方你认为可以被使用的任意一个单词语句:拆分一些地方来观察这段程序是如何运行的。这是很好的一种学习方法。
 
 ##### Get into good habits
 ### 养成良好的习惯
