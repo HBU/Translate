@@ -115,7 +115,7 @@ This is reverse engineering: taking something apart to see how it works. It’s 
 ##### Get into good habits
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 ##### 【translated by [TianyuWhite](https://github.com/TianyuWhite)】
-Translating……
+学习编程是一件事。学着去做好它是另外一件事。早早地养成好的习惯会使你的代码更加清晰易懂，所以请注意缩进排版和命名规则。努力寻找最简洁的方式来实现你的目的并且在类与方法中保持好的排列。当你的代码变得更加复杂时这变得尤为重要，这在你刚开始进行时也是非常重要的。
 
 ---------------------
 
@@ -154,7 +154,12 @@ For me personally, Android was an struggle. I got by because I already knew BASI
 
 This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
 ##### 【translated by [xiaogugu12](https://github.com/xiaogugu12)】
-Translating……
+对于我个人来说，安卓开发是一件困难的事。我之所以能度过难关，是因为我已经学习过BASIC语言(可读性最强，对开发者最友好的编程语言之一)
+但是直到我对Python语言和C#语言熟悉之后我才真正的明白JAVA和android开发。BASIC语言对于学习像变量和环境常量的配置来说是很好的，
+Python对于面向对象的程序来说是很好的介绍，而C#有一些类似于JAVA的术语。从这里开始我将提出一些声明和办法来做出改变。
+但是这不一定适用于所有人。
+在最开始的时候，我强烈建议你们开始学习不参杂android开发的纯粹的JAVA语言。BlueJ对于写Java程序来说是一个很好的小工具，可以测试小型的
+JAVA程序，我们把这称之为IDE。这将帮助你在你担心XML，安卓版本，许可证，资源等问题之前掌握基础知识。
 
 ### 尝试其它Android开发的集成开发环境/开发语言
 ##### Try another IDE/language for Android development
