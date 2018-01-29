@@ -38,10 +38,10 @@ With that in mind, here are some top tips to help you get started without leavin
 记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁，墙壁是昂贵的 :joy:
 
 ### Get a good book and use it right
-### 买一本好书，好好利用
+### :red_circle: 买一本好书，好好利用
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.
 ### Start with an easy project
-### 从一个简单的项目开始
+### :red_circle: 从一个简单的项目开始
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
 Trying to learn Android development this way will only lead to headaches and countless pens’ worth of ink. So instead of trying to “learn Android,” try to build a simple first app. This will contextualize everything you’re learning and help you to see not only how it all works, but why it’s useful. It will also keep you motivated and help structure your learning.
@@ -52,12 +52,12 @@ It’s also actually the strategy that author Josh Kaufman recommends in his boo
 Note: “Easy” is the operative word here! Friends who tell me they want to make an app almost always have crazy ambitions that advanced coders would struggle with. Build up to your dream app but start with a calculator, a quiz, a math game, or a something else small.
 
 ### Ask a friend
-### 咨询朋友
+### :red_circle: 咨询朋友
 If you’re fortunate enough to have a friend who knows how to code, then ask them to show you the ropes. They’ll help you get set up with the right software and be able to answer any questions you have. An afternoon with someone who understands Android development and is generous with their time is worth countless hours of reading and Googling.
 That said…
 
 ### Use Google and don’t reinvent the wheel
-### 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
+### :red_circle: 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
@@ -108,15 +108,15 @@ Still stuck? You could try taking a different approach entirely. Android Studio 
 ### Everyone approaches learning in different ways. But a good way to start out for many people will be:
 ### 每个人以不同的方式学习。对很多人来说，一个好的开始是:
 - Buy a good book on Android development and do a little reading to grasp the basics.
-- 买一本关于Android开发的好书，阅读并掌握一些基本知识。
+- :white_check_mark:买一本关于Android开发的好书，阅读并掌握一些基本知识。
 - Start with a simple project that motivates you.
-- 从一个能激励你的简单项目开始。
+- :white_check_mark:从一个能激励你的简单项目开始。
 - Ask a friend to help, if that is an option
-- 如果有选择的话，请朋友帮忙。
+- :white_check_mark:如果有选择的话，请朋友帮忙。
 - Google what you can’t do and need to know.
-- 用搜索引擎查找你不会做的和你需要了解的知识。
+- :white_check_mark:用搜索引擎查找你不会做的和你需要了解的知识。
 - Follow videos and tutorials online.
-- 关注在线视频和教程
+- :white_check_mark:关注在线视频和教程
 
 Optional:
 
