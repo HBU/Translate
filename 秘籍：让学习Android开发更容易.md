@@ -42,6 +42,8 @@ With that in mind, here are some top tips to help you get started without leavin
 ### :red_circle: 买一本好书，好好利用
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.
 ##### 【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
+买一本好书，好好利用，这是显然的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
+
 ### Start with an easy project
 ### :red_circle: 从一个简单的项目开始
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
@@ -65,6 +67,8 @@ Google is your friend when it comes to building projects and learning concepts. 
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
 ##### 【translate by [mengjiu999](https://github.com/mengjiu999)】
+当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
+  你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
 
 ## You can also Google error messages 
 ## while trying to figure out why your apps won’t work
