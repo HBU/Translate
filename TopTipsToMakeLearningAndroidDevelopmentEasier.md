@@ -42,12 +42,12 @@ With that in mind, here are some top tips to help you get started without leavin
 ### :red_circle: 买一本好书，好好利用
 ##### Get a good book and use it right
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.**
-##### 【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
+##### 【translated by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
 **买一本好书并好好利用是显而易见的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.**
 
 ### :red_circle: 从一个简单的项目开始
 ##### Start with an easy project
-##### 【translate by [dadadazhi](https://github.com/dadadazhi)】
+##### 【translated by [dadadazhi](https://github.com/dadadazhi)】
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
 **在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC（语言），BASIC（语言）相对简单。**
@@ -87,7 +87,7 @@ That said…
 ##### Use Google and don’t reinvent the wheel
 
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
-##### 【translate by [mengjiu999](https://github.com/mengjiu999)】
+##### 【translated by [mengjiu999](https://github.com/mengjiu999)】
 
 **当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。**
 
@@ -101,20 +101,20 @@ You need to make sure to keep doing this. When you’re new, you can easily spen
 ###### You can also Google error messages while trying to figure out why your apps won’t work
 
 Tip: One of the challenges for learning coding in general and Android in particular, is it changes all the time. That means you’ll find plenty of out-dated resources, which will only confuse you. To fix that in Google, click ‘Tools”and then Any Time > Past Year. This should help ensure all the information you find up-to-date.
-##### 【translate by [S7ZYXU](https://github.com/S7ZYXU)】
+##### 【translated by [S7ZYXU](https://github.com/S7ZYXU)】
 Translating……
 
 ### 逆向工程
 ##### Reverse engineer
 Borrowing code or copying out simple programs is a good opportunity to learn. Try reading through some code and understanding how it works. Tweak lines to see how it alters the functionality and appropriate any elements you think could be used elsewhere.
 This is reverse engineering: taking something apart to see how it works. It’s a great way to learn anything.
-##### 【translate by [zz51233273](https://github.com/zz51233273)】
+##### 【translated by [zz51233273](https://github.com/zz51233273)】
 **借助代码或拷贝一份简单的程序是一个很好的学习机会，可以尝试着去读一些代码并理解这段程序是如何工作的。我们也可以稍微修改几行来观察如何能有效并适当的代替任意一个地方你认为可以被使用的任意一个单词语句:拆分一些地方来观察这段程序是如何运行的。这是很好的一种学习方法。**
 
 ### 养成良好的习惯
 ##### Get into good habits
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
-##### 【translate by [TianyuWhite](https://github.com/TianyuWhite)】
+##### 【translated by [TianyuWhite](https://github.com/TianyuWhite)】
 Translating……
 
 ---------------------
@@ -143,7 +143,7 @@ Better yet would be to find a structured online course that included videos. Sta
 ### 不一定必须从Android起步
 ##### Maybe don’t start with Android
 I say “maybe” because this won’t be the case for everyone. If you’re really eager to get an app up and running, you might not want to spend time with a completely different programming language. Likewise some people may find starting with a different programming language actually just confuses them, as it’ll add more syntax to remember. It all depends on your style of learning.
-##### 【translate by [KangYh](https://github.com/0-0MrLonely)】
+##### 【translated by [KangYh](https://github.com/0-0MrLonely)】
 **我用了“不一定”来表达，因为这种方法不一定对所有人都适用。如果你真的是超想写个软件跑一下，你也许并不想在一门完全不同的程序语言上花费时间。同样的，一些人可能发现开始学习一门不同的语言让他们完全懵了，因为有更多的语法要记。总而言之，看你自己的学习风格了。**
 
 ----------------------
@@ -153,7 +153,7 @@ I say “maybe” because this won’t be the case for everyone. If you’re rea
 For me personally, Android was an struggle. I got by because I already knew BASIC (one of the most readable and beginner-friendly languages) but it was only really after I’d gotten familiar with Python and C# that I really started to “get” Java and Android. BASIC is great for learning concepts like variables and conditional statements. Python is an easy introduction to object oriented programming. C# has syntax similar to Java. From there it’s just a matter of changing a few statements and methodologies to make the transition.
 
 This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
-##### 【translate by [xiaogugu12](https://github.com/xiaogugu12)】
+##### 【translated by [xiaogugu12](https://github.com/xiaogugu12)】
 Translating……
 
 ### 尝试其它Android开发的集成开发环境/开发语言
