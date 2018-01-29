@@ -1,7 +1,7 @@
 # 秘籍：让学习Android开发更容易 :cn:
 ##### Top tips to make learning Android development easier :us:
 ##### Source：https://www.androidauthority.com/top-tips-make-learning-android-development-easier-829306/
-##### Translate : [David](https://github.com/HBU),  [mengjiu999](https://github.com/mengjiu999), [MiaoQiaowei](https://github.com/MiaoQiaowei), [dadadazhi](https://github.com/dadadazhi), [zz51233273](https://github.com/zz51233273)
+##### Translate : [David](https://github.com/HBU),  [mengjiu999](https://github.com/mengjiu999), [MiaoQiaowei](https://github.com/MiaoQiaowei), [dadadazhi](https://github.com/dadadazhi), [zz51233273](https://github.com/zz51233273), [XuGuoFengWind](https://github.com/XuGuoFengWind)
 ------------------
 Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! 
 Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
@@ -119,14 +119,23 @@ Learning to program is one thing. Learning to do it well is another. Adopting go
 ##### Understand how to use the debugger before you get too far into your coding journey
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
+【translate by [XuGuoFengWind](https://github.com/XuGuoFengWind)】
+一定要花时间阅读基础知识，为以后的学习打下基础。
+如果你在你的编码过程中走得太远之前理解了如何使用调试器，它会帮助你找出代码出错时出了什么问题。
 
 ##### Watch videos
 ### 观看视频
 This is partly a matter of personal preference, but I think following a video tutorial is significantly easier than learning the same thing in a book. This way, you can literally follow along with precisely what the instructor is doing.
 
+这在一定程度上是个人喜好的问题，但我认为跟一本视频教程相比，在书中学习同样的东西要容易得多。这样，你就可以准确地按照老师的意思去做。
+
 Certain concepts are easier to learn from books and websites, but putting those things into practice is easier when following along with a video. Hmm, I wonder where you can find a ton of great tutorial videos all about Android development…
 
+某些概念在书本和网站上更容易学习，但在跟随视频时更容易实践这些概念。嗯，我想知道你在哪里可以找到很多关于Android开发的很棒的教程视频…
+
 Better yet would be to find a structured online course that included videos. Stay tuned.
+
+更好的是找到一个结构化的网络课程，包括视频。敬请关注。
 
 ##### Maybe don’t start with Android
 ### 不一定必须从Android起步
