@@ -41,6 +41,7 @@ With that in mind, here are some top tips to help you get started without leavin
 ### Get a good book and use it right
 ### :red_circle: 买一本好书，好好利用
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.
+【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
 ### Start with an easy project
 ### :red_circle: 从一个简单的项目开始
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
@@ -59,6 +60,7 @@ That said…
 
 ### Use Google and don’t reinvent the wheel
 ### :red_circle: 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
+【translate by [mengjiu999](https://github.com/mengjiu999)】
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
