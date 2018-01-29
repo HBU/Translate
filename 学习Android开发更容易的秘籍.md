@@ -98,20 +98,20 @@ This won’t be right for everyone. At the very least, I would highly recommend 
 ### 尝试其它Android开发的集成开发环境/开发语言
 Still stuck? You could try taking a different approach entirely. Android Studio + Java is the official way to create Android apps, but there are plenty of other options out there too. One is to use the now-officially-supported Kotlin. If you’re making a game, you could also go with Unity. You could even try the lesser-known Basic4Android. All these options will make it a little easier to get started, but of course there are advantages to knowing the official “main” approach to Android development.
 
-### Conclusion
-### 结论
-Everyone approaches learning in different ways. But a good way to start out for many people will be:
-每个人以不同的方式学习。对很多人来说，一个好的开始是:
+## Conclusion
+## 结论
+### Everyone approaches learning in different ways. But a good way to start out for many people will be:
+### 每个人以不同的方式学习。对很多人来说，一个好的开始是:
 - Buy a good book on Android development and do a little reading to grasp the basics.
-买一本关于Android开发的好书，阅读并掌握一些基本知识。
+- 买一本关于Android开发的好书，阅读并掌握一些基本知识。
 - Start with a simple project that motivates you.
-从一个能激励你的简单项目开始。
+- 从一个能激励你的简单项目开始。
 - Ask a friend to help, if that is an option
-如果有选择的话，请朋友帮忙。
+- 如果有选择的话，请朋友帮忙。
 - Google what you can’t do and need to know.
-用搜索引擎查找你不会做的和你需要了解的知识。
+- 用搜索引擎查找你不会做的和你需要了解的知识。
 - Follow videos and tutorials online.
-关注在线视频和教程
+- 关注在线视频和教程
 
 Optional:
 
