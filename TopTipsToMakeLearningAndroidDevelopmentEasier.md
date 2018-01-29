@@ -42,9 +42,9 @@ With that in mind, here are some top tips to help you get started without leavin
 
 ##### Get a good book and use it right
 ### :red_circle: 买一本好书，好好利用
-**This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.**
+This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.**
 ##### 【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
-买一本好书并好好利用是显而易见的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
+**买一本好书并好好利用是显而易见的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
 
 ##### Start with an easy project
 ### :red_circle: 从一个简单的项目开始
@@ -90,11 +90,11 @@ That said…
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
 ##### 【translate by [mengjiu999](https://github.com/mengjiu999)】
 
-当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
+**当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
 
-你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
+**你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
 
 ----------------------------
 
@@ -108,7 +108,7 @@ Tip: One of the challenges for learning coding in general and Android in particu
 Borrowing code or copying out simple programs is a good opportunity to learn. Try reading through some code and understanding how it works. Tweak lines to see how it alters the functionality and appropriate any elements you think could be used elsewhere.
 This is reverse engineering: taking something apart to see how it works. It’s a great way to learn anything.
 ##### 【translate by [zz51233273](https://github.com/zz51233273)】
-借助代码或拷贝一份简单的程序是一个很好的学习机会，可以尝试着去读一些代码并理解这段程序是如何工作的。我们也可以稍微修改几行来观察如何能有效并适当的代替任意一个地方你认为可以被使用的任意一个单词语句:拆分一些地方来观察这段程序是如何运行的。这是很好的一种学习方法。
+**借助代码或拷贝一份简单的程序是一个很好的学习机会，可以尝试着去读一些代码并理解这段程序是如何工作的。我们也可以稍微修改几行来观察如何能有效并适当的代替任意一个地方你认为可以被使用的任意一个单词语句:拆分一些地方来观察这段程序是如何运行的。这是很好的一种学习方法。
 
 ##### Get into good habits
 ### 养成良好的习惯
@@ -120,22 +120,22 @@ Learning to program is one thing. Learning to do it well is another. Adopting go
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
 ##### 【translate by [XuGuoFengWind](https://github.com/XuGuoFengWind)】
-一定要花时间阅读基础知识，为以后的学习打下基础。
+**一定要花时间阅读基础知识，为以后的学习打下基础。
 如果你在你的编码过程中走得太远之前理解了如何使用调试器，它会帮助你找出代码出错时出了什么问题。
 
 ##### Watch videos
 ### 观看视频
 This is partly a matter of personal preference, but I think following a video tutorial is significantly easier than learning the same thing in a book. This way, you can literally follow along with precisely what the instructor is doing.
 
-这在一定程度上是个人喜好的问题，但我认为跟一本视频教程相比，在书中学习同样的东西要容易得多。这样，你就可以准确地按照老师的意思去做。
+**这在一定程度上是个人喜好的问题，但我认为跟一本视频教程相比，在书中学习同样的东西要容易得多。这样，你就可以准确地按照老师的意思去做。
 
 Certain concepts are easier to learn from books and websites, but putting those things into practice is easier when following along with a video. Hmm, I wonder where you can find a ton of great tutorial videos all about Android development…
 
-某些概念在书本和网站上更容易学习，但在跟随视频时更容易实践这些概念。嗯，我想知道你在哪里可以找到很多关于Android开发的很棒的教程视频…
+**某些概念在书本和网站上更容易学习，但在跟随视频时更容易实践这些概念。嗯，我想知道你在哪里可以找到很多关于Android开发的很棒的教程视频…
 
 Better yet would be to find a structured online course that included videos. Stay tuned.
 
-更好的是找到一个结构化的网络课程，包括视频。敬请关注。
+**更好的是找到一个结构化的网络课程，包括视频。敬请关注。
 
 ##### Maybe don’t start with Android
 ### 不一定必须从Android起步
