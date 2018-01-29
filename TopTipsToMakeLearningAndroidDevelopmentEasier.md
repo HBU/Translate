@@ -42,7 +42,7 @@ With that in mind, here are some top tips to help you get started without leavin
 
 ##### Get a good book and use it right
 ### :red_circle: 买一本好书，好好利用
-This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.
+**This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.**
 ##### 【translate by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
 买一本好书并好好利用是显而易见的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.
 
@@ -51,35 +51,35 @@ This is obvious, but the most straightforward way to learn to make Android apps 
 ##### 【translate by [dadadazhi](https://github.com/dadadazhi)】
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
-在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC（语言），BASIC（语言）相对简单。
+**在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC（语言），BASIC（语言）相对简单。
 
 Trying to learn Android development this way will only lead to headaches and countless pens’ worth of ink. So instead of trying to “learn Android,” try to build a simple first app. This will contextualize everything you’re learning and help you to see not only how it all works, but why it’s useful. It will also keep you motivated and help structure your learning.
 
-试图以这种方式学习Android的话，只会导致头痛并耗费无数墨水。
+**试图以这种方式学习Android的话，只会导致头痛并耗费无数墨水。
 因此，与其尝试“学习Android”，不如尝试构建第一个简单的APP。
 这将会把你所学到的东西融会贯通，不仅帮助你看到它如何运行，并且了解到它有什么用。
 这样做也会让你保持动力，并帮助你系统化学习。
 
 You will never learn everything there is to know about Android development. It’s changing all the time. You can learn how to make X app or Y app, and the skills you pick up along the way will make the next project even easier. This is pretty much what you’ll do every time you approach a new project, forever.
 
-你永远不会了解关于Android开发的全部知识，因为它一直在变化。
+**你永远不会了解关于Android开发的全部知识，因为它一直在变化。
 你可以学习如何制作X APP或Y APP，所掌握的技术将使下一个项目更加容易。
 这几乎是你每次接手新项目时都会做的事情，而且总是如此。
 
 It’s also actually the strategy that author Josh Kaufman recommends in his book for learning anything quickly, The First 20 Hours. It’s a good read.
 
-实际上，这也是Josh Kaufman在《[20小时学习法则](https://first20hours.com/)》中推荐的快速学习方法。这是一本好书。
+**实际上，这也是Josh Kaufman在《[20小时学习法则](https://first20hours.com/)》中推荐的快速学习方法。这是一本好书。
 
 Note: “Easy” is the operative word here! Friends who tell me they want to make an app almost always have crazy ambitions that advanced coders would struggle with. Build up to your dream app but start with a calculator, a quiz, a math game, or a something else small.
 
-注意:“Easy”是这里的关键词!告诉我想开发APP的朋友们，几乎都会有一些高级程序员难以企及的雄心壮志。编写梦想中的APP，要从一个计算器开始，一个测试、一个数学游戏，或是其他小东西。
+**注意:“Easy”是这里的关键词!告诉我想开发APP的朋友们，几乎都会有一些高级程序员难以企及的雄心壮志。编写梦想中的APP，要从一个计算器开始，一个测试、一个数学游戏，或是其他小东西。
 
 ##### Ask a friend
 ### :red_circle: 咨询朋友
 If you’re fortunate enough to have a friend who knows how to code, then ask them to show you the ropes. They’ll help you get set up with the right software and be able to answer any questions you have. An afternoon with someone who understands Android development and is generous with their time is worth countless hours of reading and Googling.
 That said…
 
-足够幸运的话，身边有懂编程的朋友，那就请他们向你展示诀窍。
+**足够幸运的话，身边有懂编程的朋友，那就请他们向你展示诀窍。
 他们将帮助你布置正确的软件环境，并且能够回答你的任何问题。
 跟一个了解Android开发并慷慨奉献自己时间的朋友学习一下午，能节约无数用来阅读和搜索的时间。
 也就是说…
@@ -88,17 +88,18 @@ That said…
 ### :red_circle: 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
 
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
+##### 【translate by [mengjiu999](https://github.com/mengjiu999)】
+
+当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
-##### 【translate by [mengjiu999](https://github.com/mengjiu999)】
-当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
-  你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
+
+你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
 
 ----------------------------
 
 ###### You can also Google error messages while trying to figure out why your apps won’t work
 ## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
-You can also Google error messages while trying to figure out why your apps won’t work!
 
 Tip: One of the challenges for learning coding in general and Android in particular, is it changes all the time. That means you’ll find plenty of out-dated resources, which will only confuse you. To fix that in Google, click ‘Tools”and then Any Time > Past Year. This should help ensure all the information you find up-to-date.
 
