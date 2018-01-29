@@ -146,9 +146,14 @@ Still stuck? You could try taking a different approach entirely. Android Studio 
 - Follow videos and tutorials online.
 - :white_check_mark:**关注在线视频和教程。**
 
-Optional:
+Optional（可选择）:
 
 - If you struggle, try your hand at a simple language like BASIC or Python, or play around with Java in BlueJ.
 - Try a different programming language/IDE like Kotlin or Unity.
+- 如果感到吃力，试着用简单的语言，如BASIC或Python，或是在BlueJ中尝试Java。
+- 使用其它的编程语言或IDE，如Kotlin或Unity。
 
-Let me know what strategies helped you get started in the comments down below and good luck. It might seem tough, but trust me, it’s worth it!
+Let me know what strategies helped you get started in the comments down below and good luck.
+It might seem tough, but trust me, it’s worth it!
+在评论中留言，让我了解哪些策略对你有帮助，祝好运。
+这看起来很艰难，但相信我，这是值得的！
