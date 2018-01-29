@@ -102,6 +102,8 @@ You need to make sure to keep doing this. When you’re new, you can easily spen
 ## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
 
 Tip: One of the challenges for learning coding in general and Android in particular, is it changes all the time. That means you’ll find plenty of out-dated resources, which will only confuse you. To fix that in Google, click ‘Tools”and then Any Time > Past Year. This should help ensure all the information you find up-to-date.
+##### 【translate by [S7ZYXU](https://github.com/S7ZYXU)】
+Translating……
 
 ##### Reverse engineer
 ### 逆向工程
@@ -113,6 +115,8 @@ This is reverse engineering: taking something apart to see how it works. It’s 
 ##### Get into good habits
 ### 养成良好的习惯
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
+##### 【translate by [TianyuWhite](https://github.com/TianyuWhite)】
+Translating……
 
 ---------------------
 
@@ -140,6 +144,8 @@ Better yet would be to find a structured online course that included videos. Sta
 ##### Maybe don’t start with Android
 ### 不一定必须从Android起步
 I say “maybe” because this won’t be the case for everyone. If you’re really eager to get an app up and running, you might not want to spend time with a completely different programming language. Likewise some people may find starting with a different programming language actually just confuses them, as it’ll add more syntax to remember. It all depends on your style of learning.
+##### 【translate by [KangYh](https://github.com/0-0MrLonely)】
+Translating……
 
 ----------------------
 
@@ -148,10 +154,14 @@ I say “maybe” because this won’t be the case for everyone. If you’re rea
 For me personally, Android was an struggle. I got by because I already knew BASIC (one of the most readable and beginner-friendly languages) but it was only really after I’d gotten familiar with Python and C# that I really started to “get” Java and Android. BASIC is great for learning concepts like variables and conditional statements. Python is an easy introduction to object oriented programming. C# has syntax similar to Java. From there it’s just a matter of changing a few statements and methodologies to make the transition.
 
 This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
+##### 【translate by [xiaogugu12](https://github.com/xiaogugu12)】
+Translating……
 
 ##### Try another IDE/language for Android development
 ### 尝试其它Android开发的集成开发环境/开发语言
 Still stuck? You could try taking a different approach entirely. Android Studio + Java is the official way to create Android apps, but there are plenty of other options out there too. One is to use the now-officially-supported Kotlin. If you’re making a game, you could also go with Unity. You could even try the lesser-known Basic4Android. All these options will make it a little easier to get started, but of course there are advantages to knowing the official “main” approach to Android development.
+##### 【translate by [Xingchenzhun](https://github.com/Xingchenzhun)】
+Translating……
 
 ---------------------------------
 
