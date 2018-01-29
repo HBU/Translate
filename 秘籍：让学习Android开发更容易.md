@@ -1,5 +1,5 @@
-# Top tips to make learning Android development easier
-# 秘籍：让学习Android开发更容易
+# Top tips to make learning Android development easier :us:
+# 秘籍：让学习Android开发更容易 :cn:
 ##### Source：https://www.androidauthority.com/top-tips-make-learning-android-development-easier-829306/
 ------------------
 Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! 
@@ -30,7 +30,12 @@ Building Android apps requires not only an understanding of Java (in itself a to
 
 This no doubt has led many people to give up before they’ve really given it a proper shot, and that’s a huge shame. Once you’ve actually built an app, Android is one of the best platforms for distributing your creations to a huge audience.
 
+毫无疑问，很多人在真正做一次正确的尝试之前就放弃了，这是巨大的耻辱。:angry:
+一旦你真的开发了一款APP，Android是将你的创意传播给广大用户的最佳平台之一。
+
 With that in mind, here are some top tips to help you get started without leaving a head-shaped dent in your wall. Walls are expensive.
+
+记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁，墙壁是昂贵的 :joy:
 
 ### Get a good book and use it right
 ### 买一本好书，好好利用
