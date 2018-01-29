@@ -119,7 +119,7 @@ Learning to program is one thing. Learning to do it well is another. Adopting go
 ##### Understand how to use the debugger before you get too far into your coding journey
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
-【translate by [XuGuoFengWind](https://github.com/XuGuoFengWind)】
+##### 【translate by [XuGuoFengWind](https://github.com/XuGuoFengWind)】
 一定要花时间阅读基础知识，为以后的学习打下基础。
 如果你在你的编码过程中走得太远之前理解了如何使用调试器，它会帮助你找出代码出错时出了什么问题。
 
