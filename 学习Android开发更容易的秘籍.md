@@ -15,6 +15,10 @@ You can follow one of my 7 minute videos for instance to make a basic game or qu
 你可以在跟着我的7分钟视频做一个基本的游戏或测试实例(所以不要拖延！)
 这与掌握所有的语言细节是完全不同的，但这是一个很好的开始。
 
+If you want to learn to program in a more complete sense, then you’re going to need to wrap your head around some complex and abstract concepts: object oriented programming, methods, classes, variables, flow control. 
+The list goes on. Unfortunately, learning to develop for Android is actually one of the trickier places to start. 
+Building Android apps requires not only an understanding of Java (in itself a tough language), but also project structure, how the Android SDK works, XML, and more.
+
 ## Making an app can be relatively easy... But that's very different from grasping all the ins and outs of the language in question.
 This no doubt has led many people to give up before they’ve really given it a proper shot, and that’s a huge shame. Once you’ve actually built an app, Android is one of the best platforms for distributing your creations to a huge audience.
 
