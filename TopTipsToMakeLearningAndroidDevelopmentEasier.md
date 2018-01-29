@@ -48,17 +48,32 @@ This is obvious, but the most straightforward way to learn to make Android apps 
 
 ##### Start with an easy project
 ### :red_circle: 从一个简单的项目开始
+##### 【translate by [dadadazhi](https://github.com/dadadazhi)】
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
+在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC（语言），BASIC（语言）相对简单。
+
 Trying to learn Android development this way will only lead to headaches and countless pens’ worth of ink. So instead of trying to “learn Android,” try to build a simple first app. This will contextualize everything you’re learning and help you to see not only how it all works, but why it’s useful. It will also keep you motivated and help structure your learning.
+
+试图以这种方式学习Android的话，只会导致头痛并耗费无数墨水。
+因此，与其尝试“学习Android”，不如尝试构建第一个简单的APP。
+这将会把你所学到的东西融会贯通，不仅帮助你看到它如何运行，并且了解到它有什么用。
+这样做也会让你保持动力，并帮助你系统化学习。
+
 You will never learn everything there is to know about Android development. It’s changing all the time. You can learn how to make X app or Y app, and the skills you pick up along the way will make the next project even easier. This is pretty much what you’ll do every time you approach a new project, forever.
+
+你永远不会了解关于Android开发的全部知识，因为它一直在变化。
+你可以学习如何制作X APP或Y APP，所掌握的技术将使下一个项目更加容易。
+这几乎是你每次接手新项目时都会做的事情，而且总是如此。
 
 It’s also actually the strategy that author Josh Kaufman recommends in his book for learning anything quickly, The First 20 Hours. It’s a good read.
 
+实际上，这也是Josh Kaufman在《[20小时学习法则](https://first20hours.com/)》中推荐的快速学习方法。这是一本好书。
+
 Note: “Easy” is the operative word here! Friends who tell me they want to make an app almost always have crazy ambitions that advanced coders would struggle with. Build up to your dream app but start with a calculator, a quiz, a math game, or a something else small.
-##### 【translate by [dadadazhi](https://github.com/dadadazhi)】
-在家庭度假上，我通过读一本书来学习编程,然后在一张纸上做很多笔记，而我的父母在阳台上聊天。那是BASIC（语言），BASIC（语言）相当简单。试图以这种方式学习Android的话，只会导致头痛和数不清的墨水。因此，与其尝试“学习Android”，不如尝试构建第一个简单的应用程序。这将会把你所学到的东西都融入到你的学习中，并帮助你看到它是如何运作的，以及为什么它是有什么用的。这样做也会让你保持动力，帮助你学习。你永远不会了解关于Android开发的所有知识，因为它一直在变化。你可以学习如何制作Xapp或Yapp，你所掌握的技能将使下一个项目更加容易。这几乎是你每次接近一个新项目时都会做的事情，永远。实际上，这也是作者 Josh Kaufman在他的书中推荐的一种方法，即在前20小时内快速学习任何东西。这是一本好书。
-注意:“Easy”是这里的关键词!那些告诉我他们想要开发应用程序的朋友们，几乎都会有一些高级程序员难以企及的雄心壮志。想建立你的梦想应用程序，要从一个计算器开始，一个测试，一个数学游戏，或者一个其他小东西。
+
+注意:“Easy”是这里的关键词!告诉我想开发APP的朋友们，几乎都会有一些高级程序员难以企及的雄心壮志。编写梦想中的APP，要从一个计算器开始，一个测试、一个数学游戏，或是其他小东西。
+
 ##### Ask a friend
 ### :red_circle: 咨询朋友
 If you’re fortunate enough to have a friend who knows how to code, then ask them to show you the ropes. They’ll help you get set up with the right software and be able to answer any questions you have. An afternoon with someone who understands Android development and is generous with their time is worth countless hours of reading and Googling.
