@@ -79,6 +79,8 @@ You need to make sure to keep doing this. When you’re new, you can easily spen
 当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。
   你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。
 
+----------------------------
+
 ###### You can also Google error messages while trying to figure out why your apps won’t work
 ## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
 You can also Google error messages while trying to figure out why your apps won’t work!
@@ -96,6 +98,8 @@ This is reverse engineering: taking something apart to see how it works. It’s 
 ### 养成良好的习惯
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 
+---------------------
+
 ##### Understand how to use the debugger before you get too far into your coding journey
 ## 在进入长途编码之旅之前，了解如何使用调试器
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
@@ -112,6 +116,8 @@ Better yet would be to find a structured online course that included videos. Sta
 ### 不一定必须从Android起步
 I say “maybe” because this won’t be the case for everyone. If you’re really eager to get an app up and running, you might not want to spend time with a completely different programming language. Likewise some people may find starting with a different programming language actually just confuses them, as it’ll add more syntax to remember. It all depends on your style of learning.
 
+----------------------
+
 ##### Python is an easy introduction into object oriented programming.
 ## Python是进入面向对象编程的简易向导
 For me personally, Android was an struggle. I got by because I already knew BASIC (one of the most readable and beginner-friendly languages) but it was only really after I’d gotten familiar with Python and C# that I really started to “get” Java and Android. BASIC is great for learning concepts like variables and conditional statements. Python is an easy introduction to object oriented programming. C# has syntax similar to Java. From there it’s just a matter of changing a few statements and methodologies to make the transition.
@@ -121,6 +127,8 @@ This won’t be right for everyone. At the very least, I would highly recommend 
 ##### Try another IDE/language for Android development
 ### 尝试其它Android开发的集成开发环境/开发语言
 Still stuck? You could try taking a different approach entirely. Android Studio + Java is the official way to create Android apps, but there are plenty of other options out there too. One is to use the now-officially-supported Kotlin. If you’re making a game, you could also go with Unity. You could even try the lesser-known Basic4Android. All these options will make it a little easier to get started, but of course there are advantages to knowing the official “main” approach to Android development.
+
+---------------------------------
 
 ##### Conclusion
 ## 结论
