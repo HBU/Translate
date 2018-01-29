@@ -62,6 +62,11 @@ Note: “Easy” is the operative word here! Friends who tell me they want to ma
 If you’re fortunate enough to have a friend who knows how to code, then ask them to show you the ropes. They’ll help you get set up with the right software and be able to answer any questions you have. An afternoon with someone who understands Android development and is generous with their time is worth countless hours of reading and Googling.
 That said…
 
+足够幸运的话，身边有懂编程的朋友，那就请他们向你展示诀窍。
+他们将帮助你布置正确的软件环境，并且能够回答你的任何问题。
+跟一个了解Android开发并慷慨奉献自己时间的朋友学习一下午，能节约无数用来阅读和搜索的时间。
+也就是说…
+
 ### Use Google and don’t reinvent the wheel
 ### :red_circle: 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
 
