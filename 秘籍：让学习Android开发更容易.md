@@ -108,15 +108,15 @@ Still stuck? You could try taking a different approach entirely. Android Studio 
 ### Everyone approaches learning in different ways. But a good way to start out for many people will be:
 ### 每个人以不同的方式学习。对很多人来说，一个好的开始是:
 - Buy a good book on Android development and do a little reading to grasp the basics.
-- :white_check_mark:买一本关于Android开发的好书，阅读并掌握一些基本知识。
+- :white_check_mark: **买一本关于Android开发的好书，阅读并掌握一些基本知识。**
 - Start with a simple project that motivates you.
-- :white_check_mark:从一个能激励你的简单项目开始。
+- :white_check_mark:**从一个能激励你的简单项目开始。**
 - Ask a friend to help, if that is an option
-- :white_check_mark:如果有选择的话，请朋友帮忙。
+- :white_check_mark:**如果有选择的话，请朋友帮忙。**
 - Google what you can’t do and need to know.
-- :white_check_mark:用搜索引擎查找你不会做的和你需要了解的知识。
+- :white_check_mark:**用搜索引擎查找你不会做的和你需要了解的知识。**
 - Follow videos and tutorials online.
-- :white_check_mark:关注在线视频和教程
+- :white_check_mark:**关注在线视频和教程。**
 
 Optional:
 
