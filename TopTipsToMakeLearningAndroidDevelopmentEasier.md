@@ -1,7 +1,6 @@
 # 秘籍：让学习Android开发更容易 :cn:
 ##### Top tips to make learning Android development easier :us:
 ##### Source：https://www.androidauthority.com/top-tips-make-learning-android-development-easier-829306/
-##### Translate : [David](https://github.com/HBU),  [mengjiu999](https://github.com/mengjiu999), [MiaoQiaowei](https://github.com/MiaoQiaowei), [dadadazhi](https://github.com/dadadazhi), [zz51233273](https://github.com/zz51233273), [XuGuoFengWind](https://github.com/XuGuoFengWind)
 ------------------
 Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! 
 Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
