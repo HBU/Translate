@@ -4,7 +4,7 @@
 ------------------
 Learning to program is not easy, and you shouldn’t let anyone else tell you otherwise! Sure, titles like “Learn to Program in 5 Minutes” might sound appealing (I’m sure I’ve been guilty of this at some point), but it’s just not that straightforward.
 
-It’s much easier to build an app by following step-by-step instructions. You can follow one of my 7 minute videos for instance to make a basic game or quiz (so don’t be put off!). That’s very different from grasping all the ins and outs of the language in question, but it’s a great way to get started.
+学习编程不是一件容易的事，不要让任何人告诉你其它看法！当然，像“5分钟学会编程”这样的标题听起来可能很诱人(我确定我曾被诱惑过)，但实际情况并不是那么简单。
 
 It’s much easier to build an app by following step-by-step instructions. You can follow one of my 7 minute videos for instance to make a basic game or quiz (so don’t be put off!). That’s very different from grasping all the ins and outs of the language in question, but it’s a great way to get started.
 
