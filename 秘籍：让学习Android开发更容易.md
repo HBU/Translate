@@ -25,6 +25,8 @@ Building Android apps requires not only an understanding of Java (in itself a to
 不幸的是，学习Android开发，起步确实是较为棘手之处。
 构建Android APP，不仅要了解Java(java自身就是一种难学的语言)，还要了解项目结构、Android SDK的工作方式、XML等。**
 
+------------------------------
+
 ## Making an app can be relatively easy... 
 ## But that's very different from grasping all the ins and outs of the language in question.
 ## 做一个APP相对容易... 但这与掌握所有的语言细节是完全不同的。
