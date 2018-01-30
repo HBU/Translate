@@ -37,26 +37,26 @@ This no doubt has led many people to give up before they’ve really given it a 
 
 With that in mind, here are some top tips to help you get started without leaving a head-shaped dent in your wall. Walls are expensive.
 
-**记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁，墙壁是昂贵的 :joy:**
+**记住这一点，下面是一些可以帮助你开始工作的秘籍，它们能帮助你少碰壁（墙壁是很贵的 :joy:**）
 
 ### :red_circle: 买一本好书，好好利用
 ##### Get a good book and use it right
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.**
 ##### 【translated by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
-**买一本好书并好好利用是显而易见的，但是学习做Android APP开发，最直接的方法就是拿本好书去阅读。不要担心知识是否只是在你脑中一闪而过，不要担心自己思绪断了就会陷入某一章节。恰恰相反，一口气去读完开始的几章节，对基本语法和概念熟悉一下。开始思考如何在一个小项目中使用这些知识，这将为下一步做好准备.**
+**买一本好书并好好利用是显而易见的，但是学习做Android APP开发，最直接的方法就是拿本好书去阅读。不要担心知识是否只是在你脑中一闪而过，不要担心自己思绪断了就会陷入某一章节。恰恰相反，一口气去读完开始的几章节，对基本语法和概念熟悉一下。开始思考如何在一个小项目中使用这些知识，这将为下一步做好准备。**
 
 ### :red_circle: 从一个简单的项目开始
 ##### Start with an easy project
 ##### 【translated by [dadadazhi](https://github.com/dadadazhi)】
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
-**在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC语言，BASIC语言相对简单。**
+**在去希腊进行家庭度假的路上，父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC语言，BASIC语言相对简单。**
 
 Trying to learn Android development this way will only lead to headaches and countless pens’ worth of ink. So instead of trying to “learn Android,” try to build a simple first app. This will contextualize everything you’re learning and help you to see not only how it all works, but why it’s useful. It will also keep you motivated and help structure your learning.
 
 **试图以这种方式学习Android的话，只会让你头痛，并耗费无数墨水。
 因此，与其尝试“学习Android”，不如尝试编写一个简单的APP。
-这将把你所学到的东西融会贯通，不仅帮助你看到它如何运行，同时了解到它有什么用。
+这将把你所学到的东西融会贯通，不仅帮助你看到它如何运行，同时还能了解到它有什么作用。
 这样做会让你保持动力，帮助你系统化学习。**
 
 You will never learn everything there is to know about Android development. It’s changing all the time. You can learn how to make X app or Y app, and the skills you pick up along the way will make the next project even easier. This is pretty much what you’ll do every time you approach a new project, forever.
