@@ -176,8 +176,8 @@ For me personally, Android was an struggle. I got by because I already knew BASI
 BASIC语言对于学习概念来说是很好的，如变量和条件语句。
 Python对于面向对象的程序来说是很好的介绍。
 C#有一些类似于JAVA的术语。
-从这开始，只需要改变一些语句和方法完成转换就可以了。
-**
+从这开始，只需要改变一些语句和方法完成转换就可以了。**
+
 This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
 
 **但是这不一定适用于所有人。
