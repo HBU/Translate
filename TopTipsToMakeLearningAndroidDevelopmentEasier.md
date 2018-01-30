@@ -182,7 +182,7 @@ This won’t be right for everyone. At the very least, I would highly recommend 
 
 **但是这不一定适用于所有人。
 在最开始的时候，我强烈建议你们开始学习不参杂android开发的纯粹的JAVA语言。
-BlueJ对于写Java程序来说是一个很好的小工具（称为IDE），可以测试小型的JAVA程序。
+[BlueJ](https://www.bluej.org/)对于写Java程序来说是一个很好的小工具（称为IDE），可以测试小型的JAVA程序。
 这将帮助你在你操心XML、Android版本、权限许可、资源等问题之前掌握基础知识。**
 
 ### 尝试其它Android开发的集成开发环境/开发语言
@@ -191,7 +191,7 @@ Still stuck? You could try taking a different approach entirely. Android Studio 
 ##### 【translate by [Xingchenzhun](https://github.com/Xingchenzhun)】
 **还在困惑？你可以尝试完全不同的方法。
 Android Studio + java 是官方创建Android APP使用的方法，但也有很多其他选择。
-一个是用现在官方支持的Kotlin。如果你正在制作游戏，你可以使用Unity。
+一个是用现在官方支持的[Kotlin](http://kotlinlang.org/)。如果你正在制作游戏，你可以使用[Unity](https://unity3d.com/cn/)。
 你甚至可以尝试鲜为人知的[Basic4Android](https://www.b4x.com/b4a.html)。
 所有的这些选项,都会使你的起步更加容易一些，但了解Android开发的官方“主要”方法自然是好处大大的。**
 
