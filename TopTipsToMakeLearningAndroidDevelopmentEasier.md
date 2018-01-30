@@ -12,7 +12,7 @@ It’s much easier to build an app by following step-by-step instructions.
 You can follow one of my 7 minute videos for instance to make a basic game or quiz (so don’t be put off!). That’s very different from grasping all the ins and outs of the language in question, but it’s a great way to get started.
 
 **一步步跟着向导编写APP会容易很多。
-你可以在跟着我的7分钟视频做一个基本的游戏或测试实例(所以不要拖延！)
+你可以在跟着我的7分钟视频做一个简单的游戏或测试实例(所以不要拖延！)
 这与掌握所有的语言细节是完全不同的，但这是一个很好的开始。**
 
 If you want to learn to program in a more complete sense, then you’re going to need to wrap your head around some complex and abstract concepts: object oriented programming, methods, classes, variables, flow control. 
@@ -20,7 +20,7 @@ The list goes on.
 Unfortunately, learning to develop for Android is actually one of the trickier places to start. 
 Building Android apps requires not only an understanding of Java (in itself a tough language), but also project structure, how the Android SDK works, XML, and more.
 
-**如果你想更为全面的领会如何学习编程，那么你需要把你的头脑缠绕在一些复杂而抽象的概念上:面向对象编程、方法、类、变量、流控制。
+**如果你想更为全面的领会如何学习编程，那么你需要学习一些复杂而抽象的概念:面向对象编程、方法、类、变量、流控制。
 这样抽象的例子还有很多。
 不幸的是，学习Android开发，起步确实是较为棘手之处。
 构建Android APP，不仅要了解Java(java自身就是一种难学的语言)，还要了解项目结构、Android SDK的工作方式、XML等。**
@@ -43,7 +43,7 @@ With that in mind, here are some top tips to help you get started without leavin
 ##### Get a good book and use it right
 This is obvious, but the most straightforward way to learn to make Android apps is just to get a good book and give it a read. Don’t worry if some of it goes over your head. Don’t worry about getting bogged down in the later chapters once you’ve lost the thread. Instead, read through the first few chapters to get familiar with the basic syntax and concepts. Start thinking how you might use some of this in a simple project, and that will get you ready for the next step.**
 ##### 【translated by [MiaoQiaowei](https://github.com/MiaoQiaowei)】
-**买一本好书并好好利用是显而易见的，但是学习做安卓软件最直接的方法就是拿本好书去阅读，不要担心知识是否知识只在你大脑里一闪而过，不要担心自己哪个地方思绪断了就会陷入那一章节。相反的，应该读完一开始的几章节，对基本语法和概念熟悉一下，开始思考如何在一个小程序里使用这些，并且为下一步做好准备.**
+**买一本好书并好好利用是显而易见的，但是学习做Android APP开发，最直接的方法就是拿本好书去阅读。不要担心知识是否只是在你脑中一闪而过，不要担心自己思绪断了就会陷入某一章节。恰恰相反，一口气去读完开始的几章节，对基本语法和概念熟悉一下。开始思考如何在一个小项目中使用这些知识，这将为下一步做好准备.**
 
 ### :red_circle: 从一个简单的项目开始
 ##### Start with an easy project
