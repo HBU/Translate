@@ -1,4 +1,4 @@
-# 秘籍：让学习Android开发更容易 :cn:
+# 让学习Android开发更容易的小建议 :cn:
 ##### Top tips to make learning Android development easier :us:
 ##### Source：https://www.androidauthority.com/top-tips-make-learning-android-development-easier-829306/
 ------------------
