@@ -125,7 +125,10 @@ This is reverse engineering: taking something apart to see how it works. It’s 
 ##### Get into good habits
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 ##### 【translated by [TianyuWhite](https://github.com/TianyuWhite)】
-**学习编程是一件事。学着去做好它是另外一件事。早早地养成好的习惯会使你的代码更加清晰易懂，所以请注意缩进排版和命名规则。努力寻找最简洁的方式来实现你的目的并且在类与方法中保持好的排列。当你的代码变得更加复杂时这变得尤为重要，这在你刚开始进行时也是非常重要的。**
+**学习编程是一件事。学着去做好，则是另一件事。
+早早地养成好的习惯，会使你的代码更加清晰易懂，所以请注意缩进排版和命名规则。
+努力寻找最简洁的方式来实现你的目标，并在类与方法中保持好的排列。
+当你的代码变得更加复杂时显得尤为重要，当然，在你刚开始进行时也是非常重要的。**
 
 ---------------------
 
@@ -134,48 +137,63 @@ Learning to program is one thing. Learning to do it well is another. Adopting go
 Make sure to spend time reading the basics to lay the foundations for your future learning. If you understand how to use the debugger before you get too far into your coding journey, it will help you figure out what is going wrong when your code won’t run.
 ##### 【translate by [XuGuoFengWind](https://github.com/XuGuoFengWind)】
 **一定要花时间阅读基础知识，为以后的学习打下基础。
-如果你在你的编码过程中走得太远之前理解了如何使用调试器，它会帮助你找出代码出错时出了什么问题。**
+在进入长途编码之旅之前，理解了如何使用调试器，它会代码出错时帮助你找出问题。**
 
 ### 观看视频
 ##### Watch videos
 This is partly a matter of personal preference, but I think following a video tutorial is significantly easier than learning the same thing in a book. This way, you can literally follow along with precisely what the instructor is doing.
 
-**这在一定程度上是个人喜好的问题，但我认为跟一本视频教程相比，在书中学习同样的东西要容易得多。这样，你就可以准确地按照老师的意思去做。**
+**这在一定程度上是个人喜好的问题，但我认为，学习同样的东西，视频教程比读书容易得多。
+视频教程可以更为准确地了解老师的思路。**
 
 Certain concepts are easier to learn from books and websites, but putting those things into practice is easier when following along with a video. Hmm, I wonder where you can find a ton of great tutorial videos all about Android development…
 
-**某些概念在书本和网站上更容易学习，但在跟随视频时更容易实践这些概念。嗯，我想知道你在哪里可以找到很多关于Android开发的很棒的教程视频…**
+**某些概念在书本和网站上更容易学习，但在跟随视频时更容易实践这些概念。
+嗯，我想知道你在哪里可以找到很多关于Android开发的很棒的教程视频…**
 
 Better yet would be to find a structured online course that included videos. Stay tuned.
 
-**更好的是找到一个结构化的网络课程，包括视频。敬请关注。**
+**然而最好是找到一个结构化的网络课程，包括视频。敬请关注。**
 
 ### 不一定必须从Android起步
 ##### Maybe don’t start with Android
 I say “maybe” because this won’t be the case for everyone. If you’re really eager to get an app up and running, you might not want to spend time with a completely different programming language. Likewise some people may find starting with a different programming language actually just confuses them, as it’ll add more syntax to remember. It all depends on your style of learning.
 ##### 【translated by [KangYh](https://github.com/0-0MrLonely)】
-**我用了“不一定”来表达，因为这种方法不一定对所有人都适用。如果你真的是超想写个软件跑一下，你也许并不想在一门完全不同的程序语言上花费时间。同样的，一些人可能发现开始学习一门不同的语言让他们完全懵了，因为有更多的语法要记。总而言之，看你自己的学习风格了。**
+**我用了“不一定”来表达，因为这种方法不一定对所有人都适用。
+如果你真的是超想写个APP跑一下，也许并不想在一门完全不同的程序语言上花费时间。
+同样，一些人可能发现开始学习一门不同的语言让他们完全懵了，因为有更多的语法要记。
+总而言之，看你自己的学习风格了。**
 
 ----------------------
 
 ## Python是进入面向对象编程的简易向导
 ##### Python is an easy introduction into object oriented programming.
 For me personally, Android was an struggle. I got by because I already knew BASIC (one of the most readable and beginner-friendly languages) but it was only really after I’d gotten familiar with Python and C# that I really started to “get” Java and Android. BASIC is great for learning concepts like variables and conditional statements. Python is an easy introduction to object oriented programming. C# has syntax similar to Java. From there it’s just a matter of changing a few statements and methodologies to make the transition.
-
-This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
 ##### 【translated by [xiaogugu12](https://github.com/xiaogugu12)】
-对于我个人来说，安卓开发是一件困难的事。我之所以能度过难关，是因为我已经学习过BASIC语言(可读性最强，对开发者最友好的编程语言之一)
-但是直到我对Python语言和C#语言熟悉之后我才真正的明白JAVA和android开发。BASIC语言对于学习像变量和环境常量的配置来说是很好的，
-Python对于面向对象的程序来说是很好的介绍，而C#有一些类似于JAVA的术语。从这里开始我将提出一些声明和办法来做出改变。
-但是这不一定适用于所有人。
-在最开始的时候，我强烈建议你们开始学习不参杂android开发的纯粹的JAVA语言。BlueJ对于写Java程序来说是一个很好的小工具，可以测试小型的
-JAVA程序，我们把这称之为IDE。这将帮助你在你担心XML，安卓版本，许可证，资源等问题之前掌握基础知识。
+**对于我个人来说，安卓开发是一件困难的事。
+我之所以能度过难关，是因为我学习过BASIC语言(可读性最强，对开发者最友好的编程语言之一)
+但是直到我对Python语言和C#语言熟悉之后，我才真正的明白JAVA和android开发。
+BASIC语言对于学习概念来说是很好的，如变量和条件语句。
+Python对于面向对象的程序来说是很好的介绍。
+C#有一些类似于JAVA的术语。
+从这开始，只需要改变一些语句和方法完成转换就可以了。
+**
+This won’t be right for everyone. At the very least, I would highly recommend you start out by learning Java without the added complication of Android. BlueJ is a great little tool for writing and testing short Java scripts (we call this an IDE). It will help you grasp the basics before you start worrying about XML, Android versions, permissions, and resources.
+
+**但是这不一定适用于所有人。
+在最开始的时候，我强烈建议你们开始学习不参杂android开发的纯粹的JAVA语言。
+BlueJ对于写Java程序来说是一个很好的小工具（称为IDE），可以测试小型的JAVA程序。
+这将帮助你在你操心XML、Android版本、权限许可、资源等问题之前掌握基础知识。**
 
 ### 尝试其它Android开发的集成开发环境/开发语言
 ##### Try another IDE/language for Android development
 Still stuck? You could try taking a different approach entirely. Android Studio + Java is the official way to create Android apps, but there are plenty of other options out there too. One is to use the now-officially-supported Kotlin. If you’re making a game, you could also go with Unity. You could even try the lesser-known Basic4Android. All these options will make it a little easier to get started, but of course there are advantages to knowing the official “main” approach to Android development.
 ##### 【translate by [Xingchenzhun](https://github.com/Xingchenzhun)】
-还在困惑？你可以尝试完全不同的方法。Android Studio + java是创建Android应用程序的官方途径，但也有很多其他的选择。一个是用现在官方支持的Kotlin。如果你正在制作游戏，你可以使用Unity。你甚至可以尝试鲜为人知的Basic 4 Android。所有的这些选项都会使你的开端更加容易一些，但了解Android开发的官方“主要”方法当然有好处。
+**还在困惑？你可以尝试完全不同的方法。
+Android Studio + java 是官方创建Android APP使用的方法，但也有很多其他选择。
+一个是用现在官方支持的Kotlin。如果你正在制作游戏，你可以使用Unity。
+你甚至可以尝试鲜为人知的[Basic4Android](https://www.b4x.com/b4a.html)。
+所有的这些选项,都会使你的起步更加容易一些，但了解Android开发的官方“主要”方法自然是好处大大的。**
 
 ---------------------------------
 
@@ -197,12 +215,12 @@ Still stuck? You could try taking a different approach entirely. Android Studio 
 Optional（可选择）:
 
 - If you struggle, try your hand at a simple language like BASIC or Python, or play around with Java in BlueJ.
-- 如果感到吃力，试着用简单的语言，如BASIC或Python，或是在BlueJ中尝试Java。
+- **如果感到吃力，试着用简单的语言，如BASIC或Python，或是在BlueJ中尝试Java。**
 - Try a different programming language/IDE like Kotlin or Unity.
-- 使用其它的编程语言或IDE，如Kotlin或Unity。
+- **使用其它的编程语言或IDE，如Kotlin或Unity。**
 
 Let me know what strategies helped you get started in the comments down below and good luck.
 It might seem tough, but trust me, it’s worth it!
 
-在评论中留言，让我了解哪些策略对你有帮助，祝好运。
-这看起来很艰难，但相信我，这是值得的！
+**在评论中留言，让我了解哪些策略对你有帮助，祝好运。
+这看起来很艰难，但相信我，这是值得的！**
