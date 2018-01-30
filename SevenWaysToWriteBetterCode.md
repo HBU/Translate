@@ -88,7 +88,7 @@ This saves a lot of time when building something complex. What’s more, is that
 
 Of course, it’s very important that you always give credit where it’s due and only use code with a Creative Commons license.
 
-#6. Make sure you understand everything!
+# 6. Make sure you understand everything!
 The danger of creating a Frankenstein app this way is that you can end up with code that you don’t actually understand. This is dangerous. It not only means you can end up making mistakes, but also that you likely won’t be utilizing the code you’ve written to the fullest extent possible. I’ve definitely been guilty of this one in the past and upon actually reading what those additional classes did, I found I could streamline whole projects significantly.
 
 Make sure you can actually understand the code that you’re using. That means being able to follow the line of logic from start to end and explain what everything does to someone if necessary. Think in terms of the ‘Feinman technique’ of being able to teach in order to fully understand.
