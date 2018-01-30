@@ -33,7 +33,7 @@ Where possible, try to make your code read in a manner similar to English. This 
 
 ```php
 If (volumeOff) {
-`
+```
 
 If you’re really anal about it (or maybe the word is ‘professional’, these are foreign concepts to me), then you may even create some kind of key or reference for your variables. What I like to do instead, is to simply make sure that my variables follow their own consistent, logical nomenclature.
 
