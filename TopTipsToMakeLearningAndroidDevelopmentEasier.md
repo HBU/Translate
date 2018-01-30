@@ -50,18 +50,18 @@ This is obvious, but the most straightforward way to learn to make Android apps 
 ##### 【translated by [dadadazhi](https://github.com/dadadazhi)】
 I learned to program by reading a book on a family holiday to Greece and making lots of notes in a pad of paper while my parents chatted on the balcony. That was BASIC and BASIC is relatively easy.
 
-**在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC（语言），BASIC（语言）相对简单。**
+**在去希腊进行家庭度假的路上，我的父母在阳台上聊天，而我在通过读书来学习编程，并且在纸上做了很多笔记。当时学习的是BASIC语言，BASIC语言相对简单。**
 
 Trying to learn Android development this way will only lead to headaches and countless pens’ worth of ink. So instead of trying to “learn Android,” try to build a simple first app. This will contextualize everything you’re learning and help you to see not only how it all works, but why it’s useful. It will also keep you motivated and help structure your learning.
 
-**试图以这种方式学习Android的话，只会导致头痛并耗费无数墨水。
-因此，与其尝试“学习Android”，不如尝试构建第一个简单的APP。
-这将会把你所学到的东西融会贯通，不仅帮助你看到它如何运行，并且了解到它有什么用。
-这样做也会让你保持动力，并帮助你系统化学习。**
+**试图以这种方式学习Android的话，只会让你头痛，并耗费无数墨水。
+因此，与其尝试“学习Android”，不如尝试编写一个简单的APP。
+这将把你所学到的东西融会贯通，不仅帮助你看到它如何运行，同时了解到它有什么用。
+这样做会让你保持动力，帮助你系统化学习。**
 
 You will never learn everything there is to know about Android development. It’s changing all the time. You can learn how to make X app or Y app, and the skills you pick up along the way will make the next project even easier. This is pretty much what you’ll do every time you approach a new project, forever.
 
-**你永远不会了解关于Android开发的全部知识，因为它一直在变化。
+**你永远不可能了解关于Android开发的全部知识，因为它一直在变化。
 你可以学习如何制作X APP或Y APP，所掌握的技术将使下一个项目更加容易。
 这几乎是你每次接手新项目时都会做的事情，而且总是如此。**
 
@@ -78,9 +78,9 @@ Note: “Easy” is the operative word here! Friends who tell me they want to ma
 If you’re fortunate enough to have a friend who knows how to code, then ask them to show you the ropes. They’ll help you get set up with the right software and be able to answer any questions you have. An afternoon with someone who understands Android development and is generous with their time is worth countless hours of reading and Googling.
 That said…
 
-**足够幸运的话，身边有懂编程的朋友，那就请他们向你展示诀窍。
+**足够幸运的话，如果身边有懂编程的朋友，那就请他们向你展示诀窍。
 他们将帮助你布置正确的软件环境，并且能够回答你的任何问题。
-跟一个了解Android开发并慷慨奉献自己时间的朋友学习一下午，能节约无数用来阅读和搜索的时间。
+跟一个了解Android开发并能慷慨奉献自己时间的朋友共同学习一下午，能节约无数用来阅读和搜索的时间。
 也就是说…**
 
 ### :red_circle: 使用Google（去搜索），不要重新发明轮子（不要从事不必要的重复劳动）
@@ -89,33 +89,43 @@ That said…
 Google is your friend when it comes to building projects and learning concepts. Not only that, but it’s also a great place for finding libraries and even snippets of code written by others in the Android development community.
 ##### 【translated by [mengjiu999](https://github.com/mengjiu999)】
 
-**当涉及到建设项目和学习概念时，谷歌是你的挚友，不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。**
+**当涉及到建设项目和学习概念时，Google是你的挚友。不仅如此，它还是一个能发现图书甚至是Android开发社区中其他人编写的代码片段的好地方。**
 
 You need to make sure to keep doing this. When you’re new, you can easily spend hours thinking of how to solve a problem when actually, it could have been solved simply with an existing statement or library! Save yourself the headache by simply Googling what you want to do. Just make sure  you have permission to any code and to include credit and attribution where appropriate.
 
-**你需要去确保并坚持这样做，当你是新手时，你会花费很多时间去思考怎样去解决一个问题，其实，它用现有的声明和图书能很简单地解决，通过谷歌简单地搜索你想要的东西就可以使你免于为思考这个问题而头疼，只要确保你有任何代码的权限，并在适当的地方包括信用和归属。**
+**你需要确保坚持这样做做下去。
+当你是新手时，你会花费很多时间去思考怎样去解决一个问题，事实上，使用已有的代码和图书能轻易解决你的问题！
+通过Google搜索并获取你想要的东西，无需为这些问题头痛。
+只需确保拥有所有代码的权限，适当的引用credit和attribution。**
 
 ----------------------------
 
-## 在尝试找出为什么app无法工作时，也可以用搜索引擎查找错误信息
+## 在尝试找出为什么APP无法工作时，也可以用搜索引擎查找错误信息
 ###### You can also Google error messages while trying to figure out why your apps won’t work
 
 Tip: One of the challenges for learning coding in general and Android in particular, is it changes all the time. That means you’ll find plenty of out-dated resources, which will only confuse you. To fix that in Google, click ‘Tools”and then Any Time > Past Year. This should help ensure all the information you find up-to-date.
 ##### 【translated by [S7ZYXU](https://github.com/S7ZYXU)】
-提示：一般情况下学习编程尤其是Android的挑战之一是它一直在变化。这意味着你会发现很多只会让你迷惑的过时的资源。要在谷歌中修复这个问题，点击“Tools”，然后Any Time > Past Year。这将有助于确保您发现的所有信息是最新的。
+**提示：一般情况下，学习编程尤其是Android编程的挑战之一是：它一直在变化。
+这意味着你会发现很多让你困惑的过期资源。
+为了在Google中解决这个问题，需要点击“Tools”，然后点击Any Time > Past Year。
+这将帮助你搜索到最新的信息。**
 
 ### 逆向工程
 ##### Reverse engineer
 Borrowing code or copying out simple programs is a good opportunity to learn. Try reading through some code and understanding how it works. Tweak lines to see how it alters the functionality and appropriate any elements you think could be used elsewhere.
 This is reverse engineering: taking something apart to see how it works. It’s a great way to learn anything.
 ##### 【translated by [zz51233273](https://github.com/zz51233273)】
-**借助代码或拷贝一份简单的程序是一个很好的学习机会，可以尝试着去读一些代码并理解这段程序是如何工作的。我们也可以稍微修改几行来观察如何能有效并适当的代替任意一个地方你认为可以被使用的任意一个单词语句:拆分一些地方来观察这段程序是如何运行的。这是很好的一种学习方法。**
+**使用别人的代码或拷贝简单的例程，是很好的学习机会。
+尝试着去读一些代码并理解这段程序是如何工作的。
+选择一些你认为可以在其它地方使用的元素，尝试修改几行代码，观察功能的变化。
+拆开某物看它是如何工作的，这就是逆向工程。
+这是很好的学习方法。**
 
 ### 养成良好的习惯
 ##### Get into good habits
 Learning to program is one thing. Learning to do it well is another. Adopting good habits early on will make your code clearer and easier to understand, so pay attention to things like indentation and naming conventions. Try to look for the most elegant ways to accomplish your goals and keep things nicely arranged in methods and classes. This becomes more important as your code becomes more complex, it’s also very important when you’re just starting out.
 ##### 【translated by [TianyuWhite](https://github.com/TianyuWhite)】
-学习编程是一件事。学着去做好它是另外一件事。早早地养成好的习惯会使你的代码更加清晰易懂，所以请注意缩进排版和命名规则。努力寻找最简洁的方式来实现你的目的并且在类与方法中保持好的排列。当你的代码变得更加复杂时这变得尤为重要，这在你刚开始进行时也是非常重要的。
+**学习编程是一件事。学着去做好它是另外一件事。早早地养成好的习惯会使你的代码更加清晰易懂，所以请注意缩进排版和命名规则。努力寻找最简洁的方式来实现你的目的并且在类与方法中保持好的排列。当你的代码变得更加复杂时这变得尤为重要，这在你刚开始进行时也是非常重要的。**
 
 ---------------------
 
