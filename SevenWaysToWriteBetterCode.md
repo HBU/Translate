@@ -31,9 +31,10 @@ The obvious tip is to name the variables based on what they do. So, maybe don’
 
 Where possible, try to make your code read in a manner similar to English. This is something that becomes especially apparent when using Booleans (true or false statements).
 
-`php
+```php
 If (volumeOff) {
-`
+
+
 If you’re really anal about it (or maybe the word is ‘professional’, these are foreign concepts to me), then you may even create some kind of key or reference for your variables. What I like to do instead, is to simply make sure that my variables follow their own consistent, logical nomenclature.
 
 So, when I made a multiscreen multitasking app, I dealt with many similar variables describing aspects of different ‘mini’ apps that could be moved around the screen. I always named these in the same way, such that paintTaskbarLength did the same thing as notepadTaskbarLength. This then meant that I didn’t have to look around for the name of that variable. If I had called one notepadTaskbarWidth instead, then it would have led to confusion.
