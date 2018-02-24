@@ -1,13 +1,17 @@
 https://github.com/Microsoft/Cognitive-Face-Android
 
 # Microsoft Face API: Android Client Library & Sample
+# 微软人脸识别API：Android客户端库&实例
 This repo contains the Android client library & sample for the Microsoft Face API, an offering within [Microsoft Cognitive Services](https://www.microsoft.com/cognitive-services), formerly known as Project Oxford.
-* [Learn about the Face API](https://www.microsoft.com/cognitive-services/en-us/face-api)
-* [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/face-api/documentation/overview)
-* [Find more SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=face)
+
+当前库包含微软人脸识别API的Android客户端库和实例，提供微软认知服务，一般称之为牛津项目。
+
+* [Learn about the Face API](https://www.microsoft.com/cognitive-services/en-us/face-api) 学习人脸识别API
+* [Read the documentation](https://www.microsoft.com/cognitive-services/en-us/face-api/documentation/overview)阅读文档
+* [Find more SDKs & Samples](https://www.microsoft.com/cognitive-services/en-us/SDK-Sample?api=face)查找更多SDK和实例
 
 
-## The Client Library
+## The Client Library 客户端库
 The Face API client library is a thin Java client wrapper for Microsoft Face API.
 
 The easiest way to consume the client library is to add com.microsoft.projectoxford.face package from Maven Central Repository. To find the latest version of client library, go to http://search.maven.org, and search for "com.microsoft.projectoxford".
